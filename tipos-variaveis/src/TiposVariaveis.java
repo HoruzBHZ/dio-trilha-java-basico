@@ -7,8 +7,7 @@ public class TiposVariaveis {
         short numeroCurto = (short) numeroNormal;
 
         int numero = 5;
-       //teste//
-       //teste2//
+       
         numero = 10;
         System.out.println(numero);
 
