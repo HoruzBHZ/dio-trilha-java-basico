@@ -8,6 +8,7 @@ public class TiposVariaveis {
 
         int numero = 5;
        //teste//
+       //teste2//
         numero = 10;
         System.out.println(numero);
 
